@@ -1,2 +1,2 @@
 # sat.d.ts
-Typescript interface for sat.js
+Typescript definition for sat.js

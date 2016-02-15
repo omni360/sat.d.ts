@@ -1,0 +1,30 @@
+{
+  "name": "sat.d.ts",
+  "version": "1.0.0",
+  "description": "Type definitions for sat.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omni360/sat.d.ts.git"
+  },
+  "scripts": {
+    "test": "mocha ./sat-test.js"
+  },
+  "typescript": {
+    "definition": "sat.d.ts"
+  },
+  "keywords": [
+    "sat.js",
+    "typescript",
+    "definition"
+  ],
+  "author": "Hou,Chunlei",
+  "license": "SEE LICENSE IN <filename>",
+  "bugs": {
+    "url": "https://github.com/omni360/sat.d.ts/issues"
+  },
+  "homepage": "https://github.com/omni360/sat.d.ts#readme",
+  "dependencies": {
+    "mocha": "^2.4.5",
+    "sat": "^0.5.0"
+  }
+}
